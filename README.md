@@ -11,5 +11,5 @@ Based on your experiences and previous works we will dig into your computer scie
 - [ ] Git
 - [ ] Wep app with ASP.NET MVC 5
 - [ ] REST API with ASP.NET Core 3.1
-- [ ] Web application with JavaScript
+- [ ] Web app with JavaScript
 - [ ] Crontibution tooling
