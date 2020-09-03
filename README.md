@@ -1,10 +1,8 @@
 # technical-review-damien-vermillas
 
-Workspace for the technical review with:
+Workspace for the technical review (60') with:
 - Damien Vermillas
 - Valentin Barit
-
-* duration: **45-60 minutes**
 
 ## Plan
 
