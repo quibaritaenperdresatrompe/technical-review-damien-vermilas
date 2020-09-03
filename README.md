@@ -1,6 +1,8 @@
 # technical-review-damien-vermillas
 
-Workspace for the technical review with Nizar Mathlouthi
+Workspace for the technical review with:
+- Damien Vermillas
+- Valentin Barit
 
 * duration: **45-60 minutes**
 
