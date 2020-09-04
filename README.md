@@ -1,7 +1,7 @@
-# technical-review-damien-vermillas
+# technical-review-damien-vermilas
 
 Workspace for the technical review (60') with:
-- Damien Vermillas
+- Damien Vermilas
 - Valentin Barit
 
 ## Plan
