@@ -12,4 +12,4 @@ Based on your experiences and previous works we will dig into your computer scie
 - [ ] Wep app with ASP.NET MVC 5
 - [ ] REST API with ASP.NET Core 3.1
 - [ ] Web app with JavaScript
-- [ ] Crontibution tooling
+- [ ] Crontibution and quality tooling
